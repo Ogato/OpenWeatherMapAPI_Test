@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">OpenWeatherMapTest</string>
     <string name="enter_city">Enter City</string>
+    <string name="openweathermap_api">OpenWeatherMap API</string>
+    <string name="apixu">APIXU</string>
+    <string name="search">Search</string>
 </resources>
